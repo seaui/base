@@ -4,9 +4,9 @@
   "version": "1.0.0",
   "description": "深入了解SeaUI底层结构的关键部分，包括我们让web开发变得更好、更快、更强壮的最佳实践。",
   "homepage": "https://github.com/seaui/base",
-  "author": "chanh",
+  "author": "chanh wang",
   "maintainers": [
-    "chanh"
+    "chanh wang"
   ],
   "repository": {
     "type": "git",
