@@ -16,7 +16,10 @@
     "url": ""
   },
   "keywords": [],
-  "licenses": "MIT",
+  "licenses":  {
+      "type": "MIT",
+      "url": "https://github.com/seaui/transition/blob/master/LICENSE"
+  },
   "spm": {
     "output": [
       "base.css"
