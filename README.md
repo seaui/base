@@ -205,7 +205,3 @@ SeaUI内置了一套响应式、移动设备优先的流式栅格系统，随着
 ```html
 <span class="glyphicon glyphicon-search"></span>
 ```
-
-````js
-seajs.use("base.css");
-````

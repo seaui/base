@@ -8,7 +8,7 @@
 
 包括200个来自Glyphicon Halflings的字体图标。
 
-<link rel="stylesheet" href="src/icons.css">
+<link rel="stylesheet" href="icons.css">
 <ul class="bs-glyphicons">
       <li>
         <span class="glyphicon glyphicon-adjust"></span>
