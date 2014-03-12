@@ -22,7 +22,8 @@
   },
   "spm": {
     "output": [
-      "base.css"
+      "base.css",
+        "fonts/*"
     ],
     "alias": {},
     "devAlias": {},
